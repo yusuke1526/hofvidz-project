@@ -1,7 +1,7 @@
 -i https://pypi.org/simple/
 asgiref==3.2.7
 cachetools==4.1.0
-certifi==2020.4.5.1
+certifi==2022.12.7
 chardet==3.0.4
 django-widget-tweaks==1.4.8
 django==3.0.7
